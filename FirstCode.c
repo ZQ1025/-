@@ -5,6 +5,14 @@
 
 int main(void)
 {
-	printf("FirstCode");
+	
+	printf("aaaa");
+	printf("aaa");
+	printf("aaa");
+	printf("aaaab");
+	while(1)
+	{
+		sleep(100);
+	}
 	return 0;
 }
