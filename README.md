@@ -41,3 +41,46 @@
 
 
 
+编号|游戏名称|销量|价格
+---|:--:|:--:|---:
+1|饥荒|1000|28yuan
+2|元神|500|15yuan
+3|文明6|1000|16yuan
+
+
+`printf("output Msg");`
+
+(```)
+	function()<br>
+	{<br>
+	printf("output");<br>
+	}<br>
+	function();<br>
+(```)
+
+
+```c
+	#include <stdio.h>
+	int main(void)
+	{
+		printf("测试语句");
+		return 0;
+	}
+```
+
+
+```python
+	import os;
+```
+
+```bash
+	echo "执行语句"
+```
+
+
+
+
+
+
+
+
