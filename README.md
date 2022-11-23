@@ -77,6 +77,10 @@
 	echo "执行语句"
 ```
 
+[哔哩哔哩](https://www.bilibili.com "点击进入B站")简称B站
+
+![壁纸](http://m.qpic.cn//psc?//V51AZSUj10J7eq0t8yfV4D7yyQ4fIwWt//bqQfVz5yrrGYSXMvKr.cqaT24E7fs8VjqxCxsL93uoWUTOkmfT7UG4oL50xD72TWBIIM3OSqFCHyokoA6PQ9EUTOZ4c3QVBu792fsJXv7Po!//b&bo=7ABqAQAAAAABB6c!&rf=viewer_4)  
+
 
 
 
